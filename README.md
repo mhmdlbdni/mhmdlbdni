@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohammed Al-Badani | محمد البعداني
+# Muhammad Al-Badani | محمد البعداني
 ### Cybersecurity Student | Entrepreneurial Mind | Full-Stack Developer
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Cyber Security Illustration" width="500"/>
